@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: rgb(184, 217, 247);
+    font-family: "Black Ops One";
+    
+
+}
+.header{
+    font-size: 50px;
+    text-align: center;
+    color: aquamarine;
+    font-family: "Silkscreen";
+}
+.text{
+    font-size: 25px;
+    font-family: "Silkscreen";
+  
+}
+
+.box{
+    width: 350px;
+    height: 250px;
+    border: solid gray;
+    border-color: rgb(180, 216, 248);
+    border-radius: 20px;
+    
+}
+.invisiblebox{
+    width: 350px;
+    height: 300px;
+}
+
+.invisiblebox:hover img{
+        transform: translateY(-5px);
+    
+    
+}
